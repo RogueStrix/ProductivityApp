@@ -1,2 +1,6 @@
 # ProductivityApp
-Trying to make a productivity application including:
+## Trying to make a productivity application including:
+- Notes
+- Timetracking
+- Calendar
+- Summarization
